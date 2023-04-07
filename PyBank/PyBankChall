@@ -1,0 +1,18 @@
+import os
+import csv
+
+PyBankcsv = os.path.join("resources","budget_data.csv")
+print()
+
+total = 0
+date = []
+profit = []
+monthly_canges = []
+count = 0
+initial_profit = 0
+total_profit = 0
+total_change_profits = 0
+
+
+
+
