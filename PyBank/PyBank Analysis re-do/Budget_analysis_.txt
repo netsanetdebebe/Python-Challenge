@@ -1,0 +1,7 @@
+PyBank Analysis re-do
+-----------
+total months: 86
+total: $382539
+average change: $-8311.11
+Geatest increase in profits: Aug-16 ($1862002)
+Greatest decrease in profits: Feb-14 ($-1825558)
